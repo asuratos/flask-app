@@ -5,3 +5,4 @@ Basic Flask app following the [Flask Mega Tutorial](https://blog.miguelgrinberg.
 # Current progress
 
 Chapter 1: Complete
+Chapter 2: Complete
